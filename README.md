@@ -1,16 +1,16 @@
-# tetrain
+# TETRAIN
 
 **A web app that drills the Tetris Guideline piece colors and shapes until you recognize every piece, in any rotation, instantly.**
 
 **[➜ Play it at tetrain.vercel.app](https://tetrain.vercel.app)** · Vanilla JavaScript (ES modules) · HTML/CSS · Web Audio · Node test runner · Vercel · no framework, no build step, no dependencies
 
 <p>
-  <img src="docs/quiz.png" alt="Quiz mode: an orange color swatch with seven gray pieces to choose from" width="49%">
-  <img src="docs/learn.png" alt="Learn mode: all seven pieces in their four rotations" width="49%">
+  <img src="docs/learn-mobile.webp" alt="Learn mode on a phone: all seven pieces shown in their four rotations" width="260">
+  <img src="docs/quiz-mobile.webp" alt="Quiz mode on a phone: a purple color swatch above seven gray Tetris pieces to choose from" width="260">
 </p>
 <img src="docs/stats.png" alt="Stats page: accuracy and average time per piece, with J and L lowest at 78%" width="99%">
 
-*Top: the quiz (Color → Shape) and the Learn page. Bottom: the Stats page, where J and L are the weakest pieces, which is exactly what the app drills harder.*
+*Top: the Learn page and the quiz (Color → Shape) on a phone. Bottom: the Stats page, where J and L are the weakest pieces, which is exactly what the app drills harder.*
 
 ## Why I built it
 
